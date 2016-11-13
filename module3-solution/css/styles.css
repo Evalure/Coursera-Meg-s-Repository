@@ -1,0 +1,59 @@
+
+	#header-nav {
+		position: fixed;
+		width: 100%;
+		background-color: #89B304;
+		border-radius: 0;
+		z-index: 10;
+	}
+	
+	.navbar-brand  h1 {
+		font-size: 1.4em;
+		color: black; 
+		margin: auto;
+		font-weight: bold;
+		position: absolute;
+		left: 30px;
+	}
+	
+	p {
+		text-align: justify;
+		padding: 5px;
+	}
+	
+	.navbar-collapse {
+		border-top:0;
+	}
+	
+	#nav-list li:hover {
+		background: #e7e7e7;
+	}
+	
+	#nav-list {
+		border: 1px solid black;
+		margin-top:0px;
+		margin-bottom: 0px;
+		background-color: #DAF7A6  ;
+	}
+		
+	li {
+		border: 1px solid black;
+	}
+	
+	#textbody {
+		background-color: #D7DBDD;
+		padding-top:0;
+		margin:10px 20px 0 20px;
+	}
+	
+	
+	#menutitle {
+		font-size: 1.7em;
+		color: black;
+		padding-top:70px;
+	}
+	
+	h3 {
+		font-size: 1.3em;
+	}
+	
